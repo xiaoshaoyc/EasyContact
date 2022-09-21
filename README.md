@@ -1,8 +1,8 @@
 # EasyContact
 
 ### Deploy diagram
-<img src="https://raw.githubusercontent.com/xiaoshaoyc/EasyContact/misc/25ab122aa53b51bdd655e14ca446fc7ab60e5b89/deploy%20diagram.jpg" alt="deploy diagram" />
+<img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idlmil2aymrs/b/static_file/o/rcos%2F%5BEasyContact%5Ddeploy%20diagram.jpg" alt="deploy diagram" />
 
 
 ### Backend diagram
-<img src="https://raw.githubusercontent.com/xiaoshaoyc/EasyContact/misc/25ab122aa53b51bdd655e14ca446fc7ab60e5b89/backend%20diagram.jpg" alt="backend diagram" />
+<img src="https://objectstorage.us-ashburn-1.oraclecloud.com/n/idlmil2aymrs/b/static_file/o/rcos%2F%5BEasyContact%5Dbackend%20diagram.jpg" alt="backend diagram" />
