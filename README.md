@@ -1,8 +1,12 @@
 # EasyContact
 
-### Deploy diagram
+### Deploy Diagram
 ![deploy diagram](misc/deploy%20diagram.jpg)
 
 
-### Backend diagram
+### Backend Diagram
 ![backend diagram](misc/backend%20diagram.jpg)
+
+
+### Frontend Component Breakdown Diagram
+![frontend component breakdown diagram](misc/frontend_comp_breakdown.jpg)
