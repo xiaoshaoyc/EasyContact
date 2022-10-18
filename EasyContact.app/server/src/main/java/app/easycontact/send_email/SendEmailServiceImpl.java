@@ -1,12 +1,12 @@
-package app.easycontact.email;
+package app.easycontact.send_email;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
-public class EmailServiceImpl{
+@Service
+public class SendEmailServiceImpl implements SendEmailService{
 
     @Autowired
     private JavaMailSender emailSender;
@@ -14,7 +14,7 @@ public class EmailServiceImpl{
     public void sendSimpleMessage(
             String to, String subject, String text) {
         SimpleMailMessage message = new SimpleMailMessage();
-        message.setFrom("xiaoshaoyc@outlook.com");
+        message.setFrom("brendaashk3105smith@gmail.com");
         message.setTo(to);
         message.setSubject(subject);
         message.setText(text);
